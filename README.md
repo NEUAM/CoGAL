@@ -1,4 +1,4 @@
-# An Image Matching Algorithm Combining Global and Local Constraints 
+# Image Matching via Global and Local Constraints 
 ## License
 Our code improves upon AdaLAM's code. https://github.com/cavalli1234/AdaLAM
 
